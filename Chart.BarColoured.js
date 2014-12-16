@@ -1,3 +1,6 @@
+/*
+ * Copyright (c) 2014, Dr Daniel Naylor. Licenced under the MIT Licence. 
+ */
 (function(){
 	"use strict";
     
